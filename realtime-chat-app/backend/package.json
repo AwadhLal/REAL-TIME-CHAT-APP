@@ -1,0 +1,19 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "description": "Real-time chat backend with Socket.IO",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["chat", "socket.io", "real-time"],
+  "author": "Awadh Lal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "cors": "^2.8.5"
+  }
+}
