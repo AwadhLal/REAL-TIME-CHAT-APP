@@ -227,3 +227,5 @@ Socket.IO enables real-time, bidirectional communication between the client (Rea
 - Messages are stored in memory only (lost on server restart)
 - Perfect for learning Socket.IO basics
 - Ready for expansion with additional features later
+
+---
